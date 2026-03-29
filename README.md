@@ -428,6 +428,9 @@ docker run -p 8000:8000 --add-host=host.docker.internal:host-gateway freshmart-a
 Then open the Vercel link. The status bar should show **"Connected · Shabo is ready"**.
 
 ---
+Download Link from the following link :
+
+https://huggingface.co/rhasspy/piper-voices/tree/main/en/en_US/lessac/medium
 
 ## 👥 Honor Policy
 
